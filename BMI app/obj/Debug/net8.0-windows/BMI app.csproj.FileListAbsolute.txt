@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\Studies\opdrachten\event driven programming\BMI app\BMI app\obj\Debug\net8.0-windows\BMI_app.Form1.resources
+C:\Users\Administrator\Desktop\Studies\opdrachten\event driven programming\BMI app\BMI app\obj\Debug\net8.0-windows\BMI app.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Studies\opdrachten\event driven programming\BMI app\BMI app\obj\Debug\net8.0-windows\BMI app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Studies\opdrachten\event driven programming\BMI app\BMI app\obj\Debug\net8.0-windows\BMI app.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Studies\opdrachten\event driven programming\BMI app\BMI app\obj\Debug\net8.0-windows\BMI app.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Studies\opdrachten\event driven programming\BMI app\BMI app\obj\Debug\net8.0-windows\BMI app.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Studies\opdrachten\event driven programming\BMI app\BMI app\bin\Debug\net8.0-windows\BMI app.exe
+C:\Users\Administrator\Desktop\Studies\opdrachten\event driven programming\BMI app\BMI app\bin\Debug\net8.0-windows\BMI app.deps.json
+C:\Users\Administrator\Desktop\Studies\opdrachten\event driven programming\BMI app\BMI app\bin\Debug\net8.0-windows\BMI app.runtimeconfig.json
+C:\Users\Administrator\Desktop\Studies\opdrachten\event driven programming\BMI app\BMI app\bin\Debug\net8.0-windows\BMI app.dll
+C:\Users\Administrator\Desktop\Studies\opdrachten\event driven programming\BMI app\BMI app\bin\Debug\net8.0-windows\BMI app.pdb
+C:\Users\Administrator\Desktop\Studies\opdrachten\event driven programming\BMI app\BMI app\obj\Debug\net8.0-windows\BMI app.dll
+C:\Users\Administrator\Desktop\Studies\opdrachten\event driven programming\BMI app\BMI app\obj\Debug\net8.0-windows\refint\BMI app.dll
+C:\Users\Administrator\Desktop\Studies\opdrachten\event driven programming\BMI app\BMI app\obj\Debug\net8.0-windows\BMI app.pdb
+C:\Users\Administrator\Desktop\Studies\opdrachten\event driven programming\BMI app\BMI app\obj\Debug\net8.0-windows\BMI app.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Studies\opdrachten\event driven programming\BMI app\BMI app\obj\Debug\net8.0-windows\ref\BMI app.dll
