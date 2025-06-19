@@ -1,2 +1,2 @@
 # BMICalculator
-Simple MI Calculator
+Simple BMI Calculator made for school
